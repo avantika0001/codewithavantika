@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **avantikapandey0001@gmail.com**
 
-- ⚡ Fun fact **I love painting and K-pop!!**
+- ⚡ Fun fact **I 💖 reading , drinking coffee, watching K-dramas and playing my guitar. When I'm not doing any of that,I'mprobably playing with my dog,Sheru!**
 
 </p>
      

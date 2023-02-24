@@ -50,14 +50,17 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithavantika&show_icons=true&locale=en&layout=compact" alt="codewithavantika" /></p>
 </div>
+<br>
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithavantika&show_icons=true&locale=en" alt="codewithavantika" /></p>
 </div>
+<br>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithavantika&" alt="codewithavantika" /></p>
 </div>
+<br>
   
   </div>
   

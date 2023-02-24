@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Avantika Pandey</h1>
+<h1 align="center">Hi <img src="wave.gif" width="40"> , I'm Avantika Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithavantika&label=Profile%20views&color=0e75b6&style=flat" alt="codewithavantika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithavantika" alt="codewithavantika" /></a> </p> -->
-
+<div>
+<p align="left" width="300px">
+  
 - 🔭 I’m currently working on **Flutter Apps**
 
 - 🌱 I’m currently learning **Flutter**
@@ -19,8 +18,14 @@
 
 - ⚡ Fun fact **I love painting and K-pop!!**
 
-
-![](tiny-green-frog-teeny-tiny-green-frog.gif)
+</p>
+     
+  <div align="center">
+      <img width=300 src="tiny-green-frog-teeny-tiny-green-frog.gif" alt="image"/>
+   </div>  
+  
+ </div> 
+<!-- ![](tiny-green-frog-teeny-tiny-green-frog.gif) -->
 
 
 ### Blogs posts
@@ -45,7 +50,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithavantika&" alt="codewithavantika" /></p>
 
-</div>
+  
+  
+  </div>
+
 <!--
 **codewithavantika/codewithavantika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **avantikapandey0001@gmail.com**
 
-  - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
   
 - ⚡ Fun fact **I 💖 reading , drinking coffee, watching K-dramas and playing my guitar. <br>
                  &emsp;When I'm not doing any of that, I'm probably playing with my dog, Sheru!**

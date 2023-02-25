@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="wave.gif" width="40"> , I'm Avantika Pandey</h1>
+<br />
+<br>  
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<br />
+<br>  
 <div>
 <img align="right" width=300 src="tiny-green-frog-teeny-tiny-green-frog.gif" alt="image"/>
 <p align="left" width="300px">
@@ -19,8 +22,7 @@
 
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun fact **I 💖 reading , drinking coffee, watching K-dramas and playing my guitar. <br>
-                 &emsp;When I'm not doing any of that, I'm probably playing with my dog, Sheru!**
+- ⚡ Fun fact I 💖 reading , drinking coffee, watching K-dramas and playing my guitar.When I'm not doing any of that, I'm probably playing with my dog, Sheru!
 
 </p>
        

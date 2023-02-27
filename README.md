@@ -55,18 +55,14 @@
 <br>     
 
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithavantika&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</div>
+</p>
   
 <br>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithavantika&layout=compact&theme=dark)](https://github.com/codewithavantika/github-readme-stats) 
-
-</div>
-<br>
-<div align="center">
   
 ![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithavantika&show_icons=true&theme=dark&count_private=true)      
 

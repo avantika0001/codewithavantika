@@ -21,7 +21,7 @@
 
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun fact I 💖 reading , drinking coffee, watching K-dramas and playing my guitar. When I'm not doing any of that, I'm probably playing with my dog, Sheru!
+- ⚡ Fun fact I 💖 reading , drinking coffee, watching K-dramas and <br> playing my guitar. When I'm not doing any of that, I'm probably <br>playing  with my dog, **Sheru**!
 
 </p>
        
@@ -53,15 +53,25 @@
 <br>
 <h2 align="center">Github Stats 📈</h2>
 <br>     
-     
-     
-![Avanyika's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithavantika&show_icons=true&theme=dark&count_private=true)      
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithavantika&layout=compact&theme=dark)](https://github.com/codewithavantika/github-readme-stats)
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=codewithavantika&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithavantika&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</div>
+  
+<br>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithavantika&layout=compact&theme=dark)](https://github.com/codewithavantika/github-readme-stats) 
+
+</div>
+<br>
+<div align="center">
+  
+![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithavantika&show_icons=true&theme=dark&count_private=true)      
+
+</div> 
+ 
      
 
 [linkedin]: https://www.linkedin.com/in/avantika-pandey-2759941ab

@@ -40,7 +40,7 @@
 <br>  
 
 
-<h1 align="center">Connect with me:
+<h1 align="center">Connect with me:&nbsp;&nbsp;<img width = 35px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png"/>
 <br />
 <br>
 

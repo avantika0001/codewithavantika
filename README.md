@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="wave.gif" width="40"> , I'm Avantika Pandey</h1>
+<h1 align="center">Hi <img src="wave.gif" width="40"> , I'm Avantika Pandey!</h1>
 
 <p align="center">A passionate frontend developer from India</p>
 <br />
